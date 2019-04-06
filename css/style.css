@@ -27,6 +27,10 @@ h3 {
     
 }
 
+.blog+ .loader {
+    padding-bottom: 100px;
+}
+
 .blog-item {
     display: flex;
     width: 360px;
@@ -95,4 +99,11 @@ margin-bottom: 20px;
 
 .blog-item__autor {
     margin-top: auto;
+}
+
+.loader {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #818181;
 }
